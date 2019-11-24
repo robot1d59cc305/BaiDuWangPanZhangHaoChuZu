@@ -16,10 +16,12 @@
 #### GitHub出租页面支付宝支付二维码
 <img width="300px" height="400px" src="https://wx4.sinaimg.cn/mw690/006ZJqdEgy1g99dfzg1pvj30k00v4wgc.jpg" />
 
-#### [沃星自动发卡PC页面链接](http://www.wzfaka.com/links/D964958DD1943BBF)
+#### [沃星自动发卡平台PC页面链接](http://www.wzfaka.com/links/D964958DD1943BBF)
 
-#### 沃星自动发卡移动页面二维码
+#### 沃星自动发卡平台移动页面二维码
 ![二维码](https://wx1.sinaimg.cn/mw690/006ZJqdEgy1g99dfyfbgbj303w03wjr6.jpg)
+
+#### [淘宝出租页面链接](https://item.taobao.com/item.htm?id=608766446349)
 
 #### 售前售后进群找群主或管理员 - 699183385 - 备注:在GitHub出租页面支付的截图进群找群主或管理员拿号.
 ![QQ群](https://wx1.sinaimg.cn/mw690/006ZJqdEgy1g99e2olkojj306m06y3yh.jpg)
