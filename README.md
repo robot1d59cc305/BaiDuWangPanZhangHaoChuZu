@@ -16,7 +16,7 @@
 #### GitHub出租页面支付宝支付二维码
 <img width="300px" height="400px" src="https://wx4.sinaimg.cn/mw690/006ZJqdEgy1g99dfzg1pvj30k00v4wgc.jpg" />
 
-#### [沃星自动发卡PC页面链接](http://www.wzfaka.com/lists/EB7F72F9DAEFFE02)
+#### [沃星自动发卡PC页面链接](http://www.wzfaka.com/links/D964958DD1943BBF)
 
 #### 沃星自动发卡移动页面二维码
 ![二维码](https://wx1.sinaimg.cn/mw690/006ZJqdEgy1g99dfyfbgbj303w03wjr6.jpg)
